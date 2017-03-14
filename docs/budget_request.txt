@@ -1,7 +1,0 @@
-1 The Things Uno - https://shop.thethingsnetwork.com/index.php/product/the-things-uno/https://shop.thethingsnetwork.com/index.php/product/the-things-uno/  868MHz  	- 68,37
-1 Ultrasone sensor HC-SR04 - http://www.miniinthebox.com/nl/ultrasone-sensor-hc-sr04-afstand-meten-module-blauw-zilver_p991013.html 						- 2,00
-1 Infrarood Afstand Sensor Incl. Kabels Voor Arduino - http://www.phonestore.nl/p144763/infrarood-afstand-sensor-incl_-kabels-voor-arduino.html 			- 10,00
-1 Raspberry Pi 3 Model B - BCM2837 ARMv8 / 1.2 GHz - https://azerty.nl/raspberry%20pi/916809/3-model-b-bcm2837-armv8--1-2-ghz-1gb-sdram 					- 40,57 
-1 Laser Range Finder 2 m - https://www.parallax.com/product/28044 $99
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-																																							- 219, 84
